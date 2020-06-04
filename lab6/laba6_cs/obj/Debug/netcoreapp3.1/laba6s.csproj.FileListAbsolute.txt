@@ -1,0 +1,11 @@
+D:\STUD\Proga\Sexs\laba6s\bin\Debug\netcoreapp3.1\laba6s.exe
+D:\STUD\Proga\Sexs\laba6s\bin\Debug\netcoreapp3.1\laba6s.deps.json
+D:\STUD\Proga\Sexs\laba6s\bin\Debug\netcoreapp3.1\laba6s.runtimeconfig.json
+D:\STUD\Proga\Sexs\laba6s\bin\Debug\netcoreapp3.1\laba6s.runtimeconfig.dev.json
+D:\STUD\Proga\Sexs\laba6s\bin\Debug\netcoreapp3.1\laba6s.dll
+D:\STUD\Proga\Sexs\laba6s\bin\Debug\netcoreapp3.1\laba6s.pdb
+D:\STUD\Proga\Sexs\laba6s\obj\Debug\netcoreapp3.1\laba6s.csprojAssemblyReference.cache
+D:\STUD\Proga\Sexs\laba6s\obj\Debug\netcoreapp3.1\laba6s.AssemblyInfoInputs.cache
+D:\STUD\Proga\Sexs\laba6s\obj\Debug\netcoreapp3.1\laba6s.AssemblyInfo.cs
+D:\STUD\Proga\Sexs\laba6s\obj\Debug\netcoreapp3.1\laba6s.dll
+D:\STUD\Proga\Sexs\laba6s\obj\Debug\netcoreapp3.1\laba6s.pdb

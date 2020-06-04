@@ -1,0 +1,9 @@
+﻿  laba5_2.cpp
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(16,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(32,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(52,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(51,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(93,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(108,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUD\Proga\Sexs\laba5_2\laba5_2.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака

@@ -1,0 +1,11 @@
+D:\STUD\Proga\Sexs\lab1.cs\bin\Debug\netcoreapp3.1\lab1.cs.exe
+D:\STUD\Proga\Sexs\lab1.cs\bin\Debug\netcoreapp3.1\lab1.cs.deps.json
+D:\STUD\Proga\Sexs\lab1.cs\bin\Debug\netcoreapp3.1\lab1.cs.runtimeconfig.json
+D:\STUD\Proga\Sexs\lab1.cs\bin\Debug\netcoreapp3.1\lab1.cs.runtimeconfig.dev.json
+D:\STUD\Proga\Sexs\lab1.cs\bin\Debug\netcoreapp3.1\lab1.cs.dll
+D:\STUD\Proga\Sexs\lab1.cs\bin\Debug\netcoreapp3.1\lab1.cs.pdb
+D:\STUD\Proga\Sexs\lab1.cs\obj\Debug\netcoreapp3.1\lab1.cs.csprojAssemblyReference.cache
+D:\STUD\Proga\Sexs\lab1.cs\obj\Debug\netcoreapp3.1\lab1.cs.AssemblyInfoInputs.cache
+D:\STUD\Proga\Sexs\lab1.cs\obj\Debug\netcoreapp3.1\lab1.cs.AssemblyInfo.cs
+D:\STUD\Proga\Sexs\lab1.cs\obj\Debug\netcoreapp3.1\lab1.cs.dll
+D:\STUD\Proga\Sexs\lab1.cs\obj\Debug\netcoreapp3.1\lab1.cs.pdb

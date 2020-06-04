@@ -1,0 +1,9 @@
+D:\STUD\Proga\Sexs\MyLib1\bin\Debug\netstandard2.0\MyLib1.deps.json
+D:\STUD\Proga\Sexs\MyLib1\bin\Debug\netstandard2.0\MyLib1.dll
+D:\STUD\Proga\Sexs\MyLib1\bin\Debug\netstandard2.0\MyLib1.pdb
+D:\STUD\Proga\Sexs\MyLib1\obj\Debug\netstandard2.0\MyLib1.csprojAssemblyReference.cache
+D:\STUD\Proga\Sexs\MyLib1\obj\Debug\netstandard2.0\MyLib1.csproj.CoreCompileInputs.cache
+D:\STUD\Proga\Sexs\MyLib1\obj\Debug\netstandard2.0\MyLib1.AssemblyInfoInputs.cache
+D:\STUD\Proga\Sexs\MyLib1\obj\Debug\netstandard2.0\MyLib1.AssemblyInfo.cs
+D:\STUD\Proga\Sexs\MyLib1\obj\Debug\netstandard2.0\MyLib1.dll
+D:\STUD\Proga\Sexs\MyLib1\obj\Debug\netstandard2.0\MyLib1.pdb

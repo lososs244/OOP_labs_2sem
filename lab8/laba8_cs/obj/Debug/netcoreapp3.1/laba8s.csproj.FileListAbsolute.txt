@@ -1,0 +1,13 @@
+D:\STUD\Proga\Sexs\laba8s\bin\Debug\netcoreapp3.1\laba8s.exe
+D:\STUD\Proga\Sexs\laba8s\bin\Debug\netcoreapp3.1\laba8s.deps.json
+D:\STUD\Proga\Sexs\laba8s\bin\Debug\netcoreapp3.1\laba8s.runtimeconfig.json
+D:\STUD\Proga\Sexs\laba8s\bin\Debug\netcoreapp3.1\laba8s.runtimeconfig.dev.json
+D:\STUD\Proga\Sexs\laba8s\bin\Debug\netcoreapp3.1\laba8s.dll
+D:\STUD\Proga\Sexs\laba8s\bin\Debug\netcoreapp3.1\laba8s.pdb
+D:\STUD\Proga\Sexs\laba8s\obj\Debug\netcoreapp3.1\laba8s.csprojAssemblyReference.cache
+D:\STUD\Proga\Sexs\laba8s\obj\Debug\netcoreapp3.1\laba8s.csproj.CoreCompileInputs.cache
+D:\STUD\Proga\Sexs\laba8s\obj\Debug\netcoreapp3.1\laba8s.AssemblyInfoInputs.cache
+D:\STUD\Proga\Sexs\laba8s\obj\Debug\netcoreapp3.1\laba8s.AssemblyInfo.cs
+D:\STUD\Proga\Sexs\laba8s\obj\Debug\netcoreapp3.1\laba8s.dll
+D:\STUD\Proga\Sexs\laba8s\obj\Debug\netcoreapp3.1\laba8s.pdb
+D:\STUD\Proga\Sexs\laba8s\obj\Debug\netcoreapp3.1\laba8s.genruntimeconfig.cache
